@@ -1,0 +1,35 @@
+footer {
+    margin: 10px 0 5px 0;
+    height: 300px;
+    background-color: rgba(53, 53, 56, 0.176);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+footer > div {
+    
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+footer>div:not(:first-child) {
+    flex-direction: column;
+    align-items: start;
+}
+
+footer .instagram, footer .facebook {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer .instagram > *, footer .facebook  > * {
+    padding: 10px;
+}
+
+footer> :nth-child(1) {
+    align-items: center;
+    color: aliceblue;
+}
