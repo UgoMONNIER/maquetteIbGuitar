@@ -145,6 +145,10 @@
     margin: 10px 20px;
 }
 
+.w-content :not(:nth-child(1)){
+    margin-top: 20px ;
+}
+
 @media only screen and (max-width: 1200px) {
     body > .content{
         flex-direction: column-reverse;

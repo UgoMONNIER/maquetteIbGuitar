@@ -60,9 +60,13 @@ nav > .icones{
     display: flex;
     justify-content: end;
     align-items: center;
-    margin: 10px;
 }
 
 nav > .icones > *{
     margin: 10px;
+}
+
+.divider{
+    height :30px;
+    border-left: 1px solid gray;
 }
