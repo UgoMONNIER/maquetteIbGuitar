@@ -1,16 +1,21 @@
+*{
+    margin :0;
+    padding: 0;
+}
+
+
 body{
     margin: 0;
     font-family: WF Visual Sans Text, Arial, sans-serif;
-    background-color: rgb(35, 35, 35);
+    background-color: black;
     color: #ECECD9;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 nav{
     display: flex;
     justify-content: space-between;
-    background-color: #ECECD9;
-    padding: 5px;
+    background-color:  #ECECD9;
     font-weight: 400;
     position: fixed;
     width: 100%;
@@ -21,6 +26,11 @@ nav > .menu{
     justify-content: start;
     align-items: center;
 }
+
+nav > .menu > img{
+    padding: 0 5px;
+}
+
 
 nav > .menu > ul{
     display: flex;
@@ -36,10 +46,10 @@ nav > .menu > ul{
 }
 
 li>a {
-    font-size: 16px;
+    font-size: 12px;
     padding: 7px;
     text-decoration: none;
-    color : black;
+    color : rgb(45, 45, 45);
 }
 
 li>a:hover {
