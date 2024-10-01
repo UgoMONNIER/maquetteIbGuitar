@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/UgoMONNIER/maquetteIbGuitar/refs/heads/main/ma
 
 ## Identité Visuelle Entreprise
 
-Il s'agissait d'imaginer une identité visuelle correspondant au domaine d'activité du site web en reprenant le layout de la maquette fournie.
+Il s'agissait d'imaginer une identité visuelle correspondant au domaine d'activité d'un site web en reprenant le layout de la maquette fournie.
 
 ## CI/CD - GITHUB
 
