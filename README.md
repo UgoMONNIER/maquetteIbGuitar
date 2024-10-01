@@ -10,4 +10,4 @@ Il s'agissait d'imaginer une identité visuelle correspondant au domaine d'activ
 
 ## CI/CD - GITHUB
 
-Lors de la réalisation de ce projet, j'ai suivi la méthodologie ## devops ## en utilisant ## github ## et les pratiques standarts de versionning et d'intégration continue.
+Lors de la réalisation de ce projet, j'ai suivi la méthodologie devops en utilisant github et les pratiques standarts de versionning et d'intégration continue.
